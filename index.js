@@ -1,7 +1,7 @@
 const axios = require("axios");
 console.log("Hello world");
 
-let apiKey = "3Gs18Dq8SNrs3kLQdrpUFHa2yX8uD9ZXR7"
+let apiKey = "3892aa1c22cf2287bce52098f0ed105f"
 let city = "Bogota, col";
 
 let requestConfig = {
